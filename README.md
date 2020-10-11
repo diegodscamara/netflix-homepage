@@ -8,3 +8,4 @@ Jquery
 Font Awesome 
 Bootstrap
 JavaScript
+Media Queries
